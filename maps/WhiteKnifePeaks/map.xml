@@ -8,11 +8,11 @@
 		<world>WhiteKnifePeaks</world>
 		<creator>Tywnis</creator>
 		<spec>96.5,142.0,-546.5,90,0</spec>
-		<build>false</build>
+		<build>true</build>
 		<time>10:00</time>
 		<radius>10</radius>
 		<spawnprotect>true</spawnprotect>
-		<objective>Team death match! Kill all the other team as many times as possible!</objective>
+		<objective>Team deathmatch! Kill all the other team as many times as possible!</objective>
 	</info>
 	
 	<authors>
